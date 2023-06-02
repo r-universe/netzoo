@@ -8,3 +8,8 @@
 	url = https://github.com/netzoo/netzoor
 	shallow = true
 	registered = true
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	shallow = true
+	registered = false
