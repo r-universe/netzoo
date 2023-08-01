@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "netZooR"]
-	path = netZooR
-	url = https://github.com/netzoo/netzoor
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	registered = false
+[submodule "netZooR"]
+	path = netZooR
+	url = https://github.com/netzoo/netzoor
