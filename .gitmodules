@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RCy3"]
+	path = RCy3
+	url = https://github.com/cytoscape/RCy3
+	registered = false
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
@@ -9,3 +13,7 @@
 [submodule "netZooR"]
 	path = netZooR
 	url = https://github.com/netzoo/netzoor
+[submodule "pandaR"]
+	path = pandaR
+	url = https://github.com/jnpaulson/pandaR
+	registered = false

@@ -1,7 +1,19 @@
 [
   {
+    "package": "RCy3",
+    "url": "https://github.com/cytoscape/RCy3",
+    "via": ["netZooR"],
+    "from": "netZooR"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["netZooR"],
+    "from": "netZooR"
+  },
+  {
+    "package": "pandaR",
+    "url": "https://github.com/jnpaulson/pandaR",
     "via": ["netZooR"],
     "from": "netZooR"
   }
